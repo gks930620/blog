@@ -1,0 +1,10 @@
+title: "My MD Blog"
+description: "Markdown notes and docs"
+theme: jekyll-theme-minimal
+baseurl: "/my-md-blog"
+url: "https://YOUR_ID.github.io"
+lang: "ko"
+markdown: kramdown
+repository_url: "https://github.com/YOUR_ID/my-md-blog"
+home_label: "Go to Main"
+show_downloads: false
