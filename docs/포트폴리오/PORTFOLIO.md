@@ -5,7 +5,9 @@
 `Programmers Helper`는 IntelliJ에서 프로그래머스 문제 풀이를 바로 시작하도록 만든 로컬 생산성 플러그인이다.  
 핵심 목표는 "풀이 전 준비 시간 제거"였고, 문제 선택부터 실행 가능한 템플릿 확보까지를 Tool Window 안에서 끝내도록 설계했다.
 
-<img src="{{ '/포트폴리오/실제사용화면1.png' | relative_url }}" alt="Programmers Helper Overview" width="60%" height="80%" />
+<a href="{{ '/포트폴리오/실제사용화면1.png' | relative_url }}" data-lightbox>
+  <img src="{{ '/포트폴리오/실제사용화면1.png' | relative_url }}" alt="Programmers Helper Overview" width="60%" style="max-height: 80vh; height: auto;" />
+</a>
 
 ## 프로젝트를 시작한 이유
 

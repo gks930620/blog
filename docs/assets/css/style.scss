@@ -168,6 +168,15 @@ a:hover {
   color: var(--link-hover);
 }
 
+a[data-lightbox] {
+  display: inline-block;
+}
+
+a[data-lightbox] img {
+  cursor: zoom-in;
+  display: block;
+}
+
 hr {
   border: 0;
   border-top: 1px solid var(--line);
@@ -236,6 +245,69 @@ th {
   font-size: 15px;
 }
 
+body.lightbox-open {
+  overflow: hidden;
+}
+
+.lightbox[hidden] {
+  display: none;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: grid;
+  place-items: center;
+}
+
+.lightbox__backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.86);
+}
+
+.lightbox__figure {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  max-width: 94vw;
+  max-height: 94vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lightbox__image {
+  display: block;
+  max-width: 94vw;
+  max-height: 90vh;
+  width: auto;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 10px 32px rgba(0, 0, 0, 0.45);
+}
+
+.lightbox__close {
+  position: fixed;
+  top: 18px;
+  right: 20px;
+  z-index: 2;
+  width: 40px;
+  height: 40px;
+  border: 0;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.92);
+  color: #111827;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.lightbox__close:hover {
+  background: #ffffff;
+}
+
 @media (max-width: 760px) {
   body {
     font-size: 17px;
@@ -259,5 +331,10 @@ th {
   li,
   blockquote {
     font-size: 18px;
+  }
+
+  .lightbox__close {
+    top: 12px;
+    right: 12px;
   }
 }
