@@ -18,8 +18,11 @@ description: Markdown notes and docs
 
 ### 포트폴리오
 
-- [포트폴리오 메인]({{ '/포트폴리오/' | relative_url }})
-- [Programmers Helper - 개발 포트폴리오]({{ '/포트폴리오/PORTFOLIO.html' | relative_url }})
+- [포트폴리오]({{ '/포트폴리오/' | relative_url }})
+
+### 기타 잡지식
+
+- [기타 잡지식]({{ '/기타 잡지식/' | relative_url }})
 
 ---
 

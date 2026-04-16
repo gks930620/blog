@@ -1,0 +1,23 @@
+---
+layout: default
+title: 기타 잡지식
+description: 기타 메모/자료 문서 모음
+---
+
+# 기타 잡지식
+
+## 텍스트 문서
+
+- [NDP, GDP, GNP 정리](./NDP GDP GNP.md)
+- [양면성, 더 나은 선택](./양면성  더 나은선택 hate love .md)
+- [잠재의식](./잠재의식 .md)
+- [체취 제거](./체취 제거.md)
+
+## 이미지
+
+- [BvbzM 이미지](./BvbzM.md)
+- [JoW86 이미지](./JoW86.md)
+
+## 영상
+
+- [거북목 영상](./거북목.md)
