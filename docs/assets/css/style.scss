@@ -112,6 +112,12 @@ body {
   padding: 26px 24px;
 }
 
+.content-card img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 h1,
 h2,
 h3,
@@ -170,6 +176,7 @@ a:hover {
 
 a[data-lightbox] {
   display: inline-block;
+  max-width: 100%;
 }
 
 a[data-lightbox] img {
