@@ -8,8 +8,7 @@ description: Markdown notes and docs
 
 ### CS / 백엔드 기초
 
-- [정규화 정리]({{ '/정규화.html' | relative_url }})
-- [데이터 정규화 슬라이드]({{ '/데이터정규화.html' | relative_url }})
+- [데이터 정규화 ]({{ '/데이터정규화.html' | relative_url }})
 - [프로세스와 스레드 차이]({{ '/프로세스와스레드차이.html' | relative_url }})
 - [JavaScript 동작 원리]({{ '/Javascript 동작원리.html' | relative_url }})
 
