@@ -11,6 +11,7 @@ description: Markdown notes and docs
 - [데이터 정규화 ]({{ '/데이터정규화.html' | relative_url }})
 - [프로세스와 스레드 차이]({{ '/프로세스와스레드차이.html' | relative_url }})
 - [JavaScript 동작 원리]({{ '/Javascript 동작원리.html' | relative_url }})
+- [배포과정]({{ '/배포과정.html' | relative_url }})
 
 ### AI / 엔지니어링
 
