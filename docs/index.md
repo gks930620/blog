@@ -4,31 +4,30 @@ title: My MD Blog
 description: Markdown notes and docs
 ---
 
-## 문서 목록
+## 개발
 
-### CS / 백엔드 기초
-
-- [데이터 정규화 ]({{ '/데이터정규화.html' | relative_url }})
-- [프로세스와 스레드 차이]({{ '/프로세스와스레드차이.html' | relative_url }})
-- [JavaScript 동작 원리]({{ '/Javascript 동작원리.html' | relative_url }})
-- [배포과정]({{ '/배포과정.html' | relative_url }})
-- [개발리뷰와 PR Merge]({{ '/개발리뷰와PrMerge.html' | relative_url }})
-
-### AI / 엔지니어링
-
-- [하네스 엔지니어링]({{ '/하네스-엔지니어링.html' | relative_url }})
-
-### 포트폴리오
-
-- [포트폴리오]({{ '/포트폴리오/' | relative_url }})
-
-### 기타 잡지식
-
-- [기타 잡지식]({{ '/기타 잡지식/' | relative_url }})
+- [데이터정규화]({{ '/개발/데이터정규화.html' | relative_url }})
+- [프로세스와스레드차이]({{ '/개발/프로세스와스레드차이.html' | relative_url }})
+- [Javascript 동작원리]({{ '/개발/Javascript 동작원리.html' | relative_url }})
+- [배포과정]({{ '/개발/배포과정.html' | relative_url }})
+- [개발리뷰와PrMerge]({{ '/개발/개발리뷰와PrMerge.html' | relative_url }})
+- [하네스-엔지니어링]({{ '/개발/하네스-엔지니어링.html' | relative_url }})
 
 ---
 
-## 안내
+## 기타 잡지식
 
-- 이 페이지는 `docs/` 기준 전체 문서 진입점입니다.
-- 새 문서를 추가하면 이 목록에서 바로 접근할 수 있게 정리합니다.
+- [NDP GDP GNP]({{ '/기타 잡지식/NDP GDP GNP.html' | relative_url }})
+- [양면성 더 나은선택 hate love]({{ '/기타 잡지식/양면성  더 나은선택 hate love .html' | relative_url }})
+- [잠재의식]({{ '/기타 잡지식/잠재의식 .html' | relative_url }})
+- [체취 제거]({{ '/기타 잡지식/체취 제거.html' | relative_url }})
+- [독해의목적]({{ '/기타 잡지식/독해의목적.html' | relative_url }})
+- [여친사진잘찍는법]({{ '/기타 잡지식/여친사진잘찍는법.html' | relative_url }})
+- [6개월인생바꾸는좋은습관]({{ '/기타 잡지식/6개월인생바꾸는좋은습관.html' | relative_url }})
+- [거북목]({{ '/기타 잡지식/거북목.html' | relative_url }})
+
+---
+
+## 포트폴리오
+
+- [PORTFOLIO]({{ '/포트폴리오/PORTFOLIO.html' | relative_url }})
