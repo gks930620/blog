@@ -12,6 +12,7 @@ description: Markdown notes and docs
 - [배포과정]({{ '/개발/배포과정.html' | relative_url }})
 - [개발리뷰와PrMerge]({{ '/개발/개발리뷰와PrMerge.html' | relative_url }})
 - [하네스-엔지니어링]({{ '/개발/하네스-엔지니어링.html' | relative_url }})
+- [PaaS SaaS Serverless]({{ '/개발/paas saas serverless.html' | relative_url }})
 
 ---
 
@@ -25,6 +26,7 @@ description: Markdown notes and docs
 - [여친사진잘찍는법]({{ '/기타 잡지식/여친사진잘찍는법.html' | relative_url }})
 - [6개월인생바꾸는좋은습관]({{ '/기타 잡지식/6개월인생바꾸는좋은습관.html' | relative_url }})
 - [거북목]({{ '/기타 잡지식/거북목.html' | relative_url }})
+- [젠슨 황의 회복탄력성]({{ '/기타 잡지식/젠슨황의 회복탄력성.html' | relative_url }})
 
 ---
 
