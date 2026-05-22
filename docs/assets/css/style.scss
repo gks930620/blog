@@ -118,6 +118,31 @@ body {
   height: auto;
 }
 
+.video-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: 18px 0;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #000;
+}
+
+.video-embed--shorts {
+  max-width: 440px;
+  aspect-ratio: 9 / 16;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 h1,
 h2,
 h3,
